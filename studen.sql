@@ -1,0 +1,1 @@
+student1student1studentSELECT * FROM `sutdent-management`.student;
